@@ -12,7 +12,7 @@
 
 # Installation
 
-Hash program can be run directly from the python script but I highly suggest you to install it with  #make install
+Hash program can be run directly from the python script but I highly suggest you to install it with # make install
 
 After the installation, you will be able to access it with buster command.
 
