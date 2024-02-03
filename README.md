@@ -1,5 +1,4 @@
   # Hash-Cracker
-
 ![Hash buster linux](https://github.com/Sujeeth-infosec/Hash-cracker/assets/56471468/6884f877-47fd-4d1a-843a-0c62a1668052)
 # Features
 + Automatic hash type identification
