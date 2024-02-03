@@ -1,5 +1,3 @@
-   ![Hash buster pic](https://github.com/Sujeeth-infosec/Hash-cracker/assets/56471468/0e50c587-ab57-4859-946e-ff47c50d4337)
-
   # Hash-Cracker
 
 ![Hash buster linux](https://github.com/Sujeeth-infosec/Hash-cracker/assets/56471468/6884f877-47fd-4d1a-843a-0c62a1668052)
