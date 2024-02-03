@@ -25,7 +25,7 @@ You don't need to specify the hash type. Hash Buster will identify and crack it 
 
 # Usage
 
-      buster -s <hash> 
+      buster -s <hash>  
 
 By using this command you can crack an hash code into an normal password 
 
