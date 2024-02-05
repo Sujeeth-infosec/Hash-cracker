@@ -48,5 +48,5 @@ Multi-threading can incredibly minimize the overall speed when you have a lot of
     
     Hash -f /root/hash.txt -t 10
 
-Note:- Hash.txt contains an group of seperate hash code to crack.each hash can be cracked within given time by user in command and select atleast -3 for each hash code to crack.
+NOTE:- Hash.txt contains an group of seperate hash code to crack.each hash can be cracked within given time by user in command and select atleast -3 for each hash code to crack.
         
